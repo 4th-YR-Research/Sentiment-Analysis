@@ -1,0 +1,20 @@
+Dataset Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 21214 entries, 0 to 21213
+Data columns (total 9 columns):
+ #   Column              Non-Null Count  Dtype              
+---  ------              --------------  -----              
+ 0   Reviewer Name       21214 non-null  object             
+ 1   Profile Link        21163 non-null  object             
+ 2   Country             21054 non-null  object             
+ 3   Review Count        21055 non-null  object             
+ 4   Review Date         21055 non-null  datetime64[ns, UTC]
+ 5   Rating              21055 non-null  float64            
+ 6   Review Title        21055 non-null  object             
+ 7   Review Text         21055 non-null  object             
+ 8   Date of Experience  20947 non-null  datetime64[ns]     
+dtypes: datetime64[ns, UTC](1), datetime64[ns](1), float64(1), object(6)
+memory usage: 1.5+ MB
+
+
+Number of duplicate rows: 2
