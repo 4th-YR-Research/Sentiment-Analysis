@@ -1,0 +1,4 @@
+sentiment
+Negative    11480
+Positive     4656
+Neutral       708

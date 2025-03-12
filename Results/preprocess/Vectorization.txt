@@ -1,0 +1,13 @@
+Vectorized Training Data Shape: (16844, 32681)
+
+Feature Names:
+['__' '___' '__date' '_customer_support__o__amazon'
+ '_customer_support__o__my' '_𝐂𝐎𝐌𝐏𝐋𝐀𝐈𝐍𝐓𝐒𝐒𝐮𝐩𝐩𝐨𝐫𝐭__'
+ '_𝐂𝐎𝐌𝐏𝐋𝐀𝐈𝐍𝐓𝐒𝐒𝐮𝐩𝐩𝐨𝐫𝐭__amazon' '_𝐂𝐎𝐌𝐏𝐋𝐀𝐈𝐍𝐓𝐒𝐒𝐮𝐩𝐩𝐨𝐫𝐭__i'
+ '_𝓢𝓾𝓹𝓹𝓸𝓻𝓽_𝓵𝓲𝓷𝓮_𝓱𝓮𝓵𝓹𝓵𝓲𝓷𝓮_𝐎__amazon' '_𝓢𝓾𝓹𝓹𝓸𝓻𝓽_𝓵𝓲𝓷𝓮_𝓱𝓮𝓵𝓹𝓵𝓲𝓷𝓮_𝐎__the'
+ '_𝓽𝓸𝓵𝓵' 'a__' 'aa' 'aaaaaaaaaaaa' 'aaaaaggghhh' 'aaaaahhhh' 'aaaggghhhh'
+ 'aactually' 'aadhar' 'aain' 'aaj' 'aakash' 'aamir' 'aamirs' 'aamzon'
+ 'aan' 'aanchal' 'aangekomen' 'aankopen' 'aapki' 'aat' 'aaya' 'ab' 'aba'
+ 'abalone' 'abandon' 'abandoned' 'abandoning' 'abaowedding' 'abaut'
+ 'abbey' 'abbeyshake' 'abbigliamento' 'abbonamento' 'abbreviated' 'abc'
+ 'abchow' 'abd' 'abdallah' 'abdul']
