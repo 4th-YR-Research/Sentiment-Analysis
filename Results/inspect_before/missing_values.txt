@@ -1,0 +1,10 @@
+Missing values in each column:
+Reviewer Name           0
+Profile Link           51
+Country               160
+Review Count          159
+Review Date           159
+Rating                159
+Review Title          159
+Review Text           159
+Date of Experience    267

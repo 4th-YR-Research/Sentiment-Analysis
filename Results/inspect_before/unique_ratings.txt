@@ -1,0 +1,2 @@
+Unique values in 'Rating':
+[1. 5. 2. 4. 3.]
