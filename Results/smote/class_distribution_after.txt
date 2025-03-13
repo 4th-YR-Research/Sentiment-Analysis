@@ -1,0 +1,6 @@
+Class Distribution After SMOTE:
+sentiment
+Negative    11480
+Positive    11480
+Neutral     11480
+Name: count, dtype: int64
