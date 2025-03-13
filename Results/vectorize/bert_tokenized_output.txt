@@ -1,0 +1,6 @@
+                                 cleaned_review_text                                    tokenized
+0  bought  solar power lights  did not work from ...  [input_ids, token_type_ids, attention_mask]
+1  delivers consistently has the best selection a...  [input_ids, token_type_ids, attention_mask]
+2  i closed my amazon account with  amazon gift c...  [input_ids, token_type_ids, attention_mask]
+3  not sure why amazon has such a low rating but ...  [input_ids, token_type_ids, attention_mask]
+4  sent me an item that had already been opened a...  [input_ids, token_type_ids, attention_mask]
